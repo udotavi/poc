@@ -1,3 +1,4 @@
+# this function is commented out as it may belong to a separate module
 # function myFunction() {
 #   param($name)
 
@@ -20,6 +21,7 @@ function Main() {
     Write-Output "execution 1 steps"
     Write-Output "execution 1 steps"
     Write-Output "execution 1 steps"
+
     $counter += 1
   }
 
