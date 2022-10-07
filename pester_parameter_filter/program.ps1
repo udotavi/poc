@@ -21,7 +21,7 @@ function Main() {
     Write-Output "execution 1 steps"
     Write-Output "execution 1 steps"
     Write-Output "execution 1 steps"
-
+    
     $counter += 1
   }
 
